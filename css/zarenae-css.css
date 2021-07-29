@@ -153,6 +153,12 @@ html body{
         margin-top: -60px;
     }
 }
+@media (min-width:767px) and (max-width:1047px) {
+    .song-title{
+        /*margin-bottom: 40px;*/
+        margin-top: -45px;
+    }
+}
 
 
 /*PHOTOS*/
