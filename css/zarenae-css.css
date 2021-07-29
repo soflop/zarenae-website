@@ -41,6 +41,7 @@ html body{
     font-weight: 900;
     width: 80px;
     color: #f54293;
+    /*margin-bottom: 20px;*/
 
 }
 .link-tabs-home .fab{
@@ -56,6 +57,10 @@ html body{
     text-align: center;
     }
 
+}
+@media screen and (max-width:767px) {
+    .link-tabs {
+        padding-bottom: 40px; }
 }
 
     .text-box1{
