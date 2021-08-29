@@ -186,7 +186,7 @@ html body{
 
 @media screen and (max-width:767px) {
 .index-page-video{
-        width: 415px;
+        width: 315px;
         height: 225px;
     }
 }
@@ -197,7 +197,7 @@ html body{
 
 @media screen and (max-width:767px) {
     .music-page-video{
-        width: 415px;
+        width: 315px;
         height: 225px;
     }
 }
